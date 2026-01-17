@@ -1,5 +1,5 @@
 import Navbar from "../components/Navbar";
-import NoteCard from "../components/Notecard";
+import NoteCard from "../components/NoteCard";
 import { useEffect, useRef, useState } from "react";
 import RateLimitUI from "../components/RateLimitUI";
 import api from "../lib/axios";
